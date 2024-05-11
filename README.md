@@ -46,6 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![output](https://github.com/Hemanath08/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/151807176/510aad1f-2d62-4512-82dc-72e101d34091)
 
 ### Name: K.Hemanath
 ### Register Number: 212223100012
